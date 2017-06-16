@@ -1,0 +1,12 @@
+﻿  chatserver.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0501 to the compiler command line; or
+  - add _WIN32_WINNT=0x0501 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0501 (i.e. Windows XP target).
+  DigiLibMap.cpp
+  Generating Code...
+c:\users\vini the pooh!!\documents\ss2017\adv c++\digital lib server\digital library server\digital library server\chatserver.cpp(224): warning C4715: 'chatserver::convertStringToInt': not all control paths return a value
+  Skipping... (no relevant changes detected)
+  main.cpp
+  Digital Library Server.vcxproj -> C:\Users\Vini the Pooh!!\Documents\SS2017\Adv C++\Digital Lib Server\Digital Library Server\Debug\Digital Library Server.exe
+  Digital Library Server.vcxproj -> C:\Users\Vini the Pooh!!\Documents\SS2017\Adv C++\Digital Lib Server\Digital Library Server\Debug\Digital Library Server.pdb (Full PDB)
